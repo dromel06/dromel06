@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hola <𝚍𝚎𝚟𝚜/>, Soy Dromel </h1>
-<h3 align="center">Un desarrolaldor de software de Panamá <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h3 align="center">Un desarrollador de software de Panamá <img src="https://images.clipartlogo.com/files/images/39/392358/flag-south-america-panama_f.jpg" width="25 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
 Oh haz descubierto mi perfil de Github, he estado esperandote! <br>
-eres libre de clonar o hacer fork mis projectos, plantee preguntas si cree que algo podria ser mejor. <br>
+eres libre de clonar o hacer fork a mis projectos, plantee preguntas si cree que algo podria ser mejor. <br>
 
 <i>Feliz Codificacion!</i> 🚀
 </br>
@@ -41,7 +41,7 @@ eres libre de clonar o hacer fork mis projectos, plantee preguntas si cree que a
 </br>
 <div>
 <details>
-<summary align="left">How about some stats?
+<summary align="left">Mis Estadisticas
 <img align="right" src="https://komarev.com/ghpvc/?username=dromel06" alt="dromel06" />
 </summary>
 <p align="center">
@@ -58,7 +58,7 @@ eres libre de clonar o hacer fork mis projectos, plantee preguntas si cree que a
 </div>
 
 <div align="center">
-<h3>donde puedes contactarme</h3>
+<h3>Donde Puedes Contactarme</h3>
 <p>
 <a href="https://github.com/dromel06" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/dromel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -69,33 +69,26 @@ eres libre de clonar o hacer fork mis projectos, plantee preguntas si cree que a
 <br/>
 
 <div align="center">
-<h3>Technologies and Tools I use</h3> 
-
-<a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a> 
+<h3>Tecnologias y Herramientas que utilizo</h3> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-   <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
-       <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
-
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png"  height="45px" width="45px"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
 </div>
 
-<!--   <br>
+<br>
   <div align="center">
   <h3>Support</h3>
-  <p><a href="https://www.buymeacoffee.com/felippegh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
-  </div> -->
-
+  <p><a href="https://www.buymeacoffee.com/dromel06"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
+  </div>
+<!--
 -----
 Credits: [felippegh](https://github.com/felippegh)
 
-Last Edited on: 08/07/2021
+Last Edited on: 08/07/2021 -->
