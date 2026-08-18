@@ -156,9 +156,7 @@ Otras... fueron educativas.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dromel06&show_icons=true&hide=issues&hide_border=true&theme=transparent" alt="Dromel GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dromel06&layout=compact&hide=html&hide_border=true&theme=transparent" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=dromel06&theme=radical" alt="Dromel GitHub statistics" />
 
 <br><br>
 
@@ -183,7 +181,7 @@ Puedes encontrarme en:
 [![Website](https://img.shields.io/badge/dromel.dev-1a1a1a?style=flat-square&logo=firefoxbrowser&logoColor=e0a15e)](https://dromel.dev)
 [![GitHub](https://img.shields.io/badge/dromel06-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/dromel06)
 [![LinkedIn](https://img.shields.io/badge/Diomedes-658963?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dromel/)
-[![Instagram](https://img.shields.io/badge/dromel06-a34c43?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dromel06)
+[![Instagram](https://img.shields.io/badge/dromel06-a34c43?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dromeldev)
 
 También puedes:
 
